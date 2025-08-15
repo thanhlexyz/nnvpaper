@@ -7,8 +7,8 @@
 - _Suhas Kotha, Christopher Brix, Zico Kolter, Krishnamurthy (Dj) Dvijotham, Huan Zhang_, [Provably Bounding Neural Network Preimages](https://proceedings.neurips.cc/paper_files/paper/2023/file/fe061ec0ae03c5cf5b5323a2b9121bfd-Paper-Conference.pdf), Neurips 2023 (INVPROP)
 - _Shiqi Wang, Huan Zhang, Kaidi Xu, Xue Lin, Suman Jana, Cho-Jui Hsieh, Zico Kolter_, [Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Neural Network Robustness Verification](https://proceedings.neurips.cc/paper/2021/file/fac7fead96dafceaf80c1daffeae82a4-Paper.pdf), Neurips 2021 (Beta-CROWN)
 - _Florian Jaeckle, Jingyue Lu, M. Pawan Kumar_, [Neural Network Branch-and-Bound for Neural Network Verification](https://arxiv.org/pdf/2107.12855), Arxiv 2021 (Neural BnB)
-- _Jingyue Lu, M. Pawan Kumar_, [Neural Network Branching for Neural Network Verification](https://arxiv.org/pdf/1912.01329), Arxiv 2019 (Neural BnB)
 - _Rudy Bunel, Ilker Turkaslan, Philip H.S Torr, M. Pawan Kumar, Jingyue Lu, Pushmeet Kohli_, [Branch and Bound for Piecewise Linear Neural Network Verification](https://www.jmlr.org/papers/volume21/19-468/19-468.pdf), JMLR 2020, (BnB heuristic)
+- _Jingyue Lu, M. Pawan Kumar_, [Neural Network Branching for Neural Network Verification](https://arxiv.org/pdf/1912.01329), Arxiv 2019 (Neural BnB)
 - _Vincent Tjeng, Kai Xiao, Russ Tedrake_, [Evaluating Robustness of Neural Networks with Mixed Integer Programming](https://arxiv.org/pdf/1711.07356), ICLR 2019 (MIP)
 
 ### Properties
